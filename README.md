@@ -13,4 +13,4 @@ For Decompression -
 2. Decompressed file will be generated with name abc-Decompressed.txt
 
 Result -
-On average every text file get compressed upto 50% of total size.
+On average every text file get compressed upto 40-50% of total size.
